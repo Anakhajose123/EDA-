@@ -118,5 +118,3 @@ This EDA process transformed raw telecom customer data into a clean, structured,
 Data Science | Machine Learning | Python
 
 ---
-
-⭐ If you find this project helpful, feel free to star the repository!
